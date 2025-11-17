@@ -1,0 +1,2 @@
+"Dataset","Train_AUC","Test_AUC","Train_Accuracy","Test_Accuracy","Num_Features","Train_Samples","Test_Samples"
+"Fusion_1se_gt_0.1",0.900207459885836,0.893675873706573,0.845059709439416,0.840905057675244,19,26294,11270
